@@ -1,1 +1,1 @@
-print("This is python app ")
+print("This is python app running")
