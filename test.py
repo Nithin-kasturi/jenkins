@@ -1,1 +1,1 @@
-print("This is python application running version 3.0")
+print("This is python application running version 3")
